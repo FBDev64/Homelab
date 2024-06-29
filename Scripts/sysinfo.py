@@ -1,3 +1,7 @@
+# To be run on RPI Zero W
+# Info fetched by Pico
+# Displayed on LCD
+
 import psutil
 import os
 import subprocess
