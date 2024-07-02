@@ -7,5 +7,5 @@ Currently, I don't have any ideas at all. The question is [here](https://forums.
 I will try using AI to generate the script.
 
 ## Power
-The Power comes from the Power Bank, in my case.
+The Power comes from the [Power Bank](../Documentation/HARDWARE.md#material), in my case.
 The Power bank also provied power for Pi Zero W.
