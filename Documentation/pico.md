@@ -1,5 +1,5 @@
 # The Pi Pico H
-The Pi Pico H, in my case, only display the output of [sysinfo.py](../Scripts/sysinfo.py) on the LCD screen.
+The Pi Pico H, in my case, only display the output of [sysinfo.py](../Scripts/sysinfo.py) on the [LCD screen](../Documentation/HARDWARE.md#what-i-plan-to-buy).
 
 ## How to  do it ?
 Currently, I don't have any ideas at all. The question is [here](https://forums.raspberrypi.com/viewtopic.php?t=372820&start=25)

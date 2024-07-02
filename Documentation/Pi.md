@@ -10,7 +10,7 @@ It is powered by a [Power Bank](../Documentation/HARDWARE.md#material) of 2600 m
 It runs a CUPS print server, and a [ZeroMedia](https://github.com/FBDev64/ZeroMedia) media server.
 Occasionnaly, I will try some of my Server-Client apps.
 
-You can access the site from [here](http://zerolab.gotdns.ch), powered by [noip.com](https://noip.com)
+You can access the site from [here](http://zerolab.gotdns.ch), provided by [noip.com](https://noip.com)
 
 ## Specifications
 This informations are from Neofetch.
@@ -19,7 +19,6 @@ OS: Raspbian GNU/Linux 11 (bullseye) armv6l
 Host: Raspberry Pi Zero W Rev 1.1
 Shell: bash 5.1.4
 CPU: BCM2835 (1) @ 1.000GHz
-Memory: 60MiB / 476MiB
 ```
 ## Operating System
 I recommend using Raspberry PI OS lite bullseye. A very minimal OS(command line only) and get security updates.
