@@ -10,6 +10,8 @@ It is powered by a [Power Bank](../Documentation/HARDWARE.md#material) of 2600 m
 It runs a CUPS print server, and a [ZeroMedia](https://github.com/FBDev64/ZeroMedia) media server.
 Occasionnaly, I will try some of my Server-Client apps.
 
+You can access the site from [here](http://zerolab.gotdns.ch), powered by [noip.com](https://noip.com)
+
 ## Specifications
 This informations are from Neofetch.
 ```bash

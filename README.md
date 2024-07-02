@@ -10,6 +10,10 @@ I will try to update as much as possible this repo.
 To have any information about Hardware, see [Hardware](Documentation/HARDWARE.md)
 From there, you could get information about Pi Zero W and Pico.
 
+## Software
+To have any information about Hardware, see [Software](Documentation/Pi.md)
+From there, you could get information about OSes and Software.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
