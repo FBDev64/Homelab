@@ -25,6 +25,7 @@ Memory: 60MiB / 476MiB
 I recommend using Raspberry PI OS lite bullseye. A very minimal OS(command line only) and get security updates.
 
 To download the OS, just grap the [Raspberry PI Imager](https://www.raspberrypi.com/software/) and choose your PI, OS and the MicroSD Card.
+
 ## Containers and VMs
 One thing I don't recommend is using containers on the Pi Zero. It will make it buggy and slow.
 Prefer to run your Servers directly on the Pi Istelf, without a VM or containers.<br>
