@@ -17,9 +17,6 @@ This informations are from Neofetch.
 ```bash
 OS: Raspbian GNU/Linux 11 (bullseye) armv6l
 Host: Raspberry Pi Zero W Rev 1.1
-Kernel: 6.1.21+
-Uptime: 1 min
-Packages: 833 (dpkg)
 Shell: bash 5.1.4
 CPU: BCM2835 (1) @ 1.000GHz
 Memory: 60MiB / 476MiB
