@@ -7,14 +7,14 @@ It's a raspberry Pi Zero W based homelab.
 I will try to update as much as possible this repo.
 
 ## Hardware
-To have any information about Hardware, see [Hardware](Documentation/HARDWARE.md)
+To have any information about Hardware, see [Hardware.md](Documentation/HARDWARE.md)
 From there, you could get information about Pi Zero W and Pico.
 
 ## Software
-To have any information about Software, see [Software](Documentation/Pi.md)
+To have any information about Software, see [Software.md](Documentation/Pi.md)
 From there, you could get information about OSes and Software.
 
-To have No-Ip on boot, check [NoIp](./Documentation/NoIp.md)
+To have No-Ip on boot, check [NoIp.md](./Documentation/NoIp.md).
 
 ## Contributing
 
