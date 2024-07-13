@@ -7,9 +7,7 @@ It is in the last layer of the [tower](../Documentation/HARDWARE.md#tower).
 It is powered by a [Power Bank](../Documentation/HARDWARE.md#material) of 2600 mAh.
 
 ## Tasks
-It runs a CUPS print server, and a [ZeroMedia](https://github.com/FBDev64/ZeroMedia) media server.
-Occasionnaly, I will try some of my Server-Client apps.
-
+It runs a CUPS print server, and in some caases, it will be a test environment for my projects.
 You can access the site from [here](http://zerolab.gotdns.ch), provided by [noip.com](https://noip.com)
 
 ## Specifications
@@ -20,10 +18,11 @@ Host: Raspberry Pi Zero W Rev 1.1
 Shell: bash 5.1.4
 CPU: BCM2835 (1) @ 1.000GHz
 ```
-## Operating System
-I recommend using Raspberry PI OS lite bullseye. A very minimal OS(command line only) and get security updates.
 
-To download the OS, just grap the [Raspberry PI Imager](https://www.raspberrypi.com/software/) and choose your PI, OS and the MicroSD Card.
+## Operating System
+I recommend using Raspberry PI OS lite bullseye. A very minimal OS(command line only) and it receives security updates.
+
+To download the OS, just grab the [Raspberry PI Imager](https://www.raspberrypi.com/software/) and choose your PI, OS and the MicroSD Card.
 
 ## Containers and VMs
 One thing I don't recommend is using containers on the Pi Zero. It will make it buggy and slow.
