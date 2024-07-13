@@ -22,7 +22,10 @@ CPU: BCM2835 (1) @ 1.000GHz
 ## Operating System
 I recommend using Raspberry PI OS lite bullseye. A very minimal OS(command line only) and it receives security updates.
 
-To download the OS, just grab the [Raspberry PI Imager](https://www.raspberrypi.com/software/) and choose your PI, OS and the MicroSD Card.
+To download the OS, just grab the [Raspberry PI Imager](https://www.raspberrypi.com/software/) and choose your PI, OS and the MicroSD Card
+
+## Remote Control
+I use SSH access with Termius and Raspcontrol
 
 ## Containers and VMs
 One thing I don't recommend is using containers on the Pi Zero. It will make it buggy and slow.
