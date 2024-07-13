@@ -1,5 +1,5 @@
 # Homelab
-This repo is the homelab for my home. It contains all the scripts, setups, tool list, and documentations about my Homelab.
+This repo is the content of my homelab. It contains all the scripts, setups, tool list, and documentations about my Homelab.
 
 It's a raspberry Pi Zero W based homelab.
 
@@ -11,7 +11,7 @@ To have any information about Hardware, see [Hardware](Documentation/HARDWARE.md
 From there, you could get information about Pi Zero W and Pico.
 
 ## Software
-To have any information about Hardware, see [Software](Documentation/Pi.md)
+To have any information about Software, see [Software](Documentation/Pi.md)
 From there, you could get information about OSes and Software.
 
 ## Contributing
