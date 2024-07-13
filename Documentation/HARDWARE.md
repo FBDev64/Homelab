@@ -8,7 +8,7 @@ It does not have any soldered GPIO pins or HATs.
 - Pico LCD Screen
 - GPIO Pins for Raspberry Pi Zero
 - Soldering Iron
-- 16GB USB Stick
+- Zero LCD Screen
 
 ## Material
 I have the Pi Zero, that has connected to it a powered USB hub that has individual switch USB ports.
@@ -16,8 +16,7 @@ I have the Pi Zero, that has connected to it a powered USB hub that has individu
 Hub Content : 
 - Pi Pico H(see the [pico.md](pico.md) file)
 - Printer
-- Keyboard
-- USB Stick (16GB)
+- Keyboard sometimes
 
 ## Tower
 I have a tower with 3 floors. To understand, see [this image](../Images/)
