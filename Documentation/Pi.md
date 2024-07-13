@@ -25,7 +25,7 @@ I recommend using Raspberry PI OS lite bullseye. A very minimal OS(command line 
 To download the OS, just grab the [Raspberry PI Imager](https://www.raspberrypi.com/software/) and choose your PI, OS and the MicroSD Card
 
 ## Remote Control
-I use SSH access with Termius and Raspcontrol
+I use SSH access with Termius and [Raspcontroller](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Draspcontroller&pcampaignid=APPU_1_kVuSZorHNpv-7_UP9q-c2AM)
 
 ## Containers and VMs
 One thing I don't recommend is using containers on the Pi Zero. It will make it buggy and slow.
