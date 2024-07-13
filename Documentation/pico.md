@@ -1,10 +1,5 @@
 # The Pi Pico H
-The Pi Pico H, in my case, only display the output of [sysinfo.py](../Scripts/sysinfo.py) on the [LCD screen](../Documentation/HARDWARE.md#what-i-plan-to-buy).
-
-## How to  do it ?
-Currently, I don't have any ideas at all. The question is [here](https://forums.raspberrypi.com/viewtopic.php?t=372820&start=25)
-
-I will try using AI to generate the script.
+The Pi Pico H, in my case, will be a Bare Metal development environment. I will test Assembly Scripts on it.
 
 ## Power
 The Power comes from the [Power Bank](../Documentation/HARDWARE.md#material), in my case.
