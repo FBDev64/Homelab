@@ -1,17 +1,22 @@
 # The Raspberry Pi Zero W
+
 This SBC is the core of the homelab. It's a Raspberry Pi Zero W, as the title intends.
 
-It is in the last layer of the [tower](../Documentation/HARDWARE.md#tower).
+It is in the first layer of the [tower](../Documentation/HARDWARE.md#tower).
 
 ## Power
+
 It is powered by a [Power Bank](../Documentation/HARDWARE.md#material) of 2600 mAh.
 
 ## Tasks
-It runs a CUPS print server, and in some caases, it will be a test environment for my projects.
-You can access the site from [here](http://zerolab.gotdns.ch), provided by [noip.com](https://noip.com)
+
+It runs a CUPS print server, and in some cases, it will be a test environment for my projects.
+You can access the site from [here](http://zerolab.gotdns.ch), provided by [noip.com](https://noip.com).
 
 ## Specifications
+
 This informations are from Neofetch.
+
 ```bash
 OS: Raspbian GNU/Linux 11 (bullseye) armv6l
 Host: Raspberry Pi Zero W Rev 1.1
@@ -20,14 +25,18 @@ CPU: BCM2835 (1) @ 1.000GHz
 ```
 
 ## Operating System
+
 I recommend using Raspberry PI OS lite bullseye. A very minimal OS(command line only) and it receives security updates.
 
 To download the OS, just grab the [Raspberry PI Imager](https://www.raspberrypi.com/software/) and choose your PI, OS and the MicroSD Card
 
 ## Remote Control
+
 I use SSH access with [Termius](https://termius.com/) and [Raspcontroller](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Draspcontroller&pcampaignid=APPU_1_kVuSZorHNpv-7_UP9q-c2AM). It helps shutdown the Pi fastly.
 
 ## Containers and VMs
+
 One thing I don't recommend is using containers on the Pi Zero. It will make it buggy and slow.
-Prefer to run your Servers directly on the Pi Istelf, without a VM or containers.<br>
-<br>Run it only if you manage to upgrade the Pi with a Waveshare adapter and a heatsink.
+Prefer to run your Servers directly on the Pi Istelf, without a VM or containers.
+
+Run it only if you manage to upgrade the Pi with a Waveshare adapter and a heatsink.

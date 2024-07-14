@@ -1,6 +1,5 @@
 # To be run on RPI Zero W
-# Info fetched by Pico
-# Displayed on LCD
+# Not going to be used
 
 import psutil
 import os
