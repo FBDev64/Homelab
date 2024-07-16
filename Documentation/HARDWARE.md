@@ -10,7 +10,6 @@ It does not have any soldered GPIO pins or HATs.
 - Pico LCD Screen
 - GPIO Pins for Raspberry Pi Zero
 - Soldering Iron
-- 
 
 ## Material
 

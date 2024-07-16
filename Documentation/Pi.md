@@ -11,7 +11,7 @@ It is powered by a [Power Bank](../Documentation/HARDWARE.md#material) of 2600 m
 ## Tasks
 
 It runs a CUPS print server, and in some cases, it will be a test environment for my projects.
-You can access the site from [here](http://zerolab.gotdns.ch), provided by [noip.com](https://noip.com).
+It also has no-ip, but the webpage is n french.
 
 ## Specifications
 
