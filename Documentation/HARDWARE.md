@@ -16,7 +16,7 @@ It does not have any soldered GPIO pins or HATs.
 - 1 Orange LED
 - Arduino UNO
 - Arduino Nano
-- Jumper Cables
+- Jump Wires
 
 ## Material
 
