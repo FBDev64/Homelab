@@ -11,6 +11,9 @@ It does not have any soldered GPIO pins or HATs.
 - [Pimoroni VGA demo](https://www.pishop.ca/product/pimoroni-pico-vga-demo-base/)
 - GPIO Pins for Raspberry Pi Zero
 - Soldering Iron(40W)
+- 10 Red LEDs
+- 1 Blue LED
+- 1 Orange LED
 
 ## Material
 
