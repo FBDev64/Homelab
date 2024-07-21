@@ -18,6 +18,6 @@ It does not have any soldered GPIO pins or HATs.
 - Arduino Nano
 - Jump Wires
 
-## Material
+## USB 
 
 I have the Pi Zero, that has connected to it a powered USB hub that has individual switch USB ports.
