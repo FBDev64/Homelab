@@ -10,8 +10,8 @@ It is powered by a [Power Bank](../Documentation/HARDWARE.md#material) of 2600 m
 
 ## Tasks
 
-It runs a CUPS print server, and in some cases, it will be a test environment for my projects.
-It also has no-ip, but the webpage is n french.
+It runs a Pi-Hole server, and in some cases, it will be a test environment for my projects.
+It also has no-ip, but the webpage is in french.
 
 ## Specifications
 
