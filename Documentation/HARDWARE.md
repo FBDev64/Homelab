@@ -14,6 +14,8 @@ It does not have any soldered GPIO pins or HATs.
 - 10 Red LEDs
 - 1 Blue LED
 - 1 Orange LED
+- Arduino UNO
+- Arduino Nano
 
 ## Material
 
