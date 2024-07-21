@@ -33,6 +33,11 @@ To download the OS, just grab the [Raspberry PI Imager](https://www.raspberrypi.
 I use SSH access with [Termius](https://termius.com/) and [Raspcontroller](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Draspcontroller&pcampaignid=APPU_1_kVuSZorHNpv-7_UP9q-c2AM). It helps shutdown the Pi fastly.
 
 For Pi-Hole, I use [Droid hole](https://play.google.com/store/apps/details?id=com.jgeek00.droid_hole&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Ddroidhole+play+store&pcampaignid=APPU_1_WnKdZr2EJcuI9u8P78qxkAI) to monitor.
+
+## No-IP
+
+To setup no-ip, I followed [this tutorial](https://youtu.be/jvKKL18zt64?si=9yuTh3B-ke4FY1dQ)
+
 ## Containers and VMs
 
 One thing I don't recommend is using containers on the Pi Zero. It will make it buggy and slow.
