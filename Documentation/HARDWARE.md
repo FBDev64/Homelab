@@ -7,8 +7,8 @@ It does not have any soldered GPIO pins or HATs.
 
 - Waveshare Pi Zero 3b Adapter
 - Breadboard
-- Heatsink for SoC
-- [Pimoroni VGA demo]
+- [Heatsink for Pi Zero](
+- [Pimoroni VGA demo](https://www.pishop.ca/product/pimoroni-pico-vga-demo-base/)
 - GPIO Pins for Raspberry Pi Zero
 - Soldering Iron(40W)
 
