@@ -2,8 +2,6 @@
 
 This SBC is the core of the homelab. It's a Raspberry Pi Zero W, as the title intends.
 
-It is in the first layer of the [tower](../Documentation/HARDWARE.md#tower).
-
 ## Power
 
 It is powered by a [Power Bank](../Documentation/HARDWARE.md#material) of 2600 mAh.
