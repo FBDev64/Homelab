@@ -7,6 +7,7 @@ This SBC is the core of the homelab. It's a Raspberry Pi Zero W, as the title in
 It is powered by a [Power Bank](../Documentation/HARDWARE.md#material) of 2600 mAh.
 
 ## Tasks
+I plan to do a Pico-8 physical console.
 
 It only runs a webpage, that's it. I am
  currently searching ideas.
@@ -32,8 +33,6 @@ To download the OS, just grab the [Raspberry PI Imager](https://www.raspberrypi.
 ## Tools
 
 I use SSH access with [Termius](https://termius.com/) and [Raspcontroller](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Draspcontroller&pcampaignid=APPU_1_kVuSZorHNpv-7_UP9q-c2AM). It helps shutdown the Pi fastly.
-
-For Pi-Hole, I use [Droid hole](https://play.google.com/store/apps/details?id=com.jgeek00.droid_hole&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Ddroidhole+play+store&pcampaignid=APPU_1_WnKdZr2EJcuI9u8P78qxkAI) to monitor.
 
 ## No-IP
 
