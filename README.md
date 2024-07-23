@@ -10,14 +10,11 @@ I will try to update as much as possible this repo.
 
 ## Hardware
 
-To have any information about Hardware, see [Hardware.md](Documentation/HARDWARE.md)
-From there, you could get information about Pi Zero W and Pico.
+To have any information about Hardware, see [Hardware.md](Documentation/HARDWARE.md).
 
 ## Software
 
 To have any information about Software, see [Pi.md](Documentation/Pi.md). 
-
-To have No-Ip on boot, check [NoIp.md](./Documentation/NoIp.md).
 
 ## Contributing
 
