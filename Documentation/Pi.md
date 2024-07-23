@@ -4,7 +4,7 @@ This SBC is the core of the homelab. It's a Raspberry Pi Zero W, as the title in
 
 ## Power
 
-It is powered by a [Power Bank](../Documentation/HARDWARE.md#material) of 2600 mAh.
+It is powered by a the Hub, in the second Micro-USB port, the USB connector.
 
 ## Tasks
 I plan to do a Pico-8 physical console.
@@ -26,9 +26,9 @@ CPU: BCM2835 (1) @ 1.000GHz
 
 ## Operating System
 
-I recommend using Raspberry PI OS lite bullseye. A very minimal OS(command line only) and it receives security updates.
+I recommend using Raspberry PI OS lite bullseye. A very minimal OS(command line only) but still receives security updates.
 
-To download the OS, just grab the [Raspberry PI Imager](https://www.raspberrypi.com/software/) and choose your PI, OS and the MicroSD Card
+To download the OS, just grab the [Raspberry PI Imager](https://www.raspberrypi.com/software/) and choose your PI, OS and the MicroSD Card.
 
 ## Tools
 
@@ -41,6 +41,6 @@ To setup no-ip, I followed [this tutorial](https://youtu.be/jvKKL18zt64?si=9yuTh
 ## Containers and VMs
 
 One thing I don't recommend is using containers on the Pi Zero. It will make it buggy and slow.
-Prefer to run your Servers directly on the Pi Istelf, without a VM or containers.
+Prefer to run your Servers directly on the Pi istelf, without a VM or containers.
 
 Run it only if you manage to upgrade the Pi with a Waveshare adapter and a heatsink.
