@@ -15,7 +15,7 @@ From there, you could get information about Pi Zero W and Pico.
 
 ## Software
 
-To have any information about Software, see [Software.md](Documentation/Pi.md)
+To have any information about Software, see [Pi.md](Documentation/Pi.md)
 From there, you could get information about OSes and Software.
 
 To have No-Ip on boot, check [NoIp.md](./Documentation/NoIp.md).
