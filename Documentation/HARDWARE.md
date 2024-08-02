@@ -16,4 +16,5 @@ It does not have any soldered GPIO pins or HATs.
 - Arduino Nano
 - Jump Wires
 
-## Cases 
+## Cases
+I'll craft a case for the Raspberry Pi Zero.
