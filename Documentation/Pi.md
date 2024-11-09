@@ -6,41 +6,25 @@ This SBC is the core of the homelab. It's a Raspberry Pi Zero W, as the title in
 
 It is powered by a the Hub, in the second Micro-USB port, the USB connector.
 
-## Tasks
-I plan to do a Pico-8 physical console.
+## Job
 
-It only runs a webpage, that's it. I am
- currently searching ideas.
-It also has no-ip.
-
-## Specifications
-
-This informations are from Neofetch.
-
-```bash
-OS: Raspbian GNU/Linux 11 (bullseye) armv6l
-Host: Raspberry Pi Zero W Rev 1.1
-Shell: bash 5.1.4
-CPU: BCM2835 (1) @ 1.000GHz
-```
+Actually, the Pi is running a Git server using `apache2` and [gitweb](https://github.com/AdamOnAir/gitweb-pi) as a backup for my repositories.
 
 ## Operating System
 
-I recommend using Raspberry PI OS lite bullseye. A very minimal OS(command line only) but still receives security updates.
+I recommend using Raspberry PI OS lite bullseye. A very minimal OS (command line only) but still receives security updates.
 
-To download the OS, just grab the [Raspberry PI Imager](https://www.raspberrypi.com/software/) and choose your PI, OS and the MicroSD Card.
+To download the OS, just grab the [Raspberry PI Imager](https://www.raspberrypi.com/software/) and choose your PI version, desired OS and the MicroSD Card.
 
 ## Tools
 
-I use SSH access with [Termius](https://termius.com/) and [Raspcontroller](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Draspcontroller&pcampaignid=APPU_1_kVuSZorHNpv-7_UP9q-c2AM). It helps shutdown the Pi fastly.
-
-## No-IP
-
-To setup no-ip, I followed [this tutorial](https://youtu.be/jvKKL18zt64?si=9yuTh3B-ke4FY1dQ)
+- Phone : [Raspcontroller](https://play.google.com/store/apps/details?id=it.Ettore.raspcontroller&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Draspcontroller&pcampaignid=APPU_1_kVuSZorHNpv-7_UP9q-c2AM)
+- SSH : OpenSSH and PuTTY
+- UART : `minicom`
 
 ## Containers and VMs
 
 One thing I don't recommend is using containers on the Pi Zero. It will make it buggy and slow.
 Prefer to run your Servers directly on the Pi istelf, without a VM or containers.
 
-Run it only if you manage to upgrade the Pi with a Waveshare adapter and a heatsink.
+Run it only if you manage to upgrade the Pi with a heatsink and somehow more RAM.
